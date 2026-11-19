@@ -4,7 +4,7 @@ public class Player {
     private double x;
     private double y;
     private final double size = 24;
-    private final double speed = 180;
+    private final double speed = 3000;
 
     public Player(double startX, double startY) {
         x = startX;
